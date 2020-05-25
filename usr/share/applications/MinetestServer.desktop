@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=MinetestServer
+GenericName=MinetestServer
+Comment=Server version of Minetest game.
+Icon=minetestserver
+TryExec=minetestserver
+Exec=minetestserver
+Terminal=true
+PrefersNonDefaultGPU=true
+Type=Application
+Categories=Game;Simulation;
+StartupNotify=false
+Keywords=sandbox;world;mining;crafting;blocks;nodes;multiplayer;roleplaying;
